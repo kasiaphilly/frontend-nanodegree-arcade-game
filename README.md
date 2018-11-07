@@ -1,6 +1,23 @@
-frontend-nanodegree-arcade-game
-===============================
+# ARCADE GAME #
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This is a classic arcade game developed from the starter kit provided by [Udacity] within the Front-End Web Development Nano-degree program.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Installation ##
+1. download the repository to your computer
+2. unzip the file
+3. double-click on the file: index.html
+4. the game will open in browser window
+
+## Controls ##
+1. To navigate the character, use the arrow keys: <kbd>left</kbd><kbd>up</kbd><kbd>right</kbd><kbd>down</kbd>
+
+## Gameplay ##
+1. The game starts as Player opens the website
+2. The Player starts with 3 lives
+3. Each time the Player reaches the water, she scores 1 point and is moved back to the starting position.
+4. The game ends when the Player scores 10 points or loses all lives.
+5. Avoid the bugs - you will lose lives when they run into you!
+
+## Resources used ##
+1. Udacity starter kit
+2. https://www.w3schools.com
