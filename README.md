@@ -1,6 +1,6 @@
 # ARCADE GAME #
 
-This is a classic arcade game developed from the starter kit provided by [Udacity] within the Front-End Web Development Nano-degree program.
+This is a classic arcade game developed from the starter kit with the game engine provided by Udacity within the Front-End Web Development Nano-degree program.
 
 ## Installation ##
 1. download the repository to your computer
@@ -21,3 +21,4 @@ This is a classic arcade game developed from the starter kit provided by [Udacit
 ## Resources used ##
 1. Udacity starter kit
 2. https://www.w3schools.com
+3. http://blog.sklambert.com/html5-canvas-game-2d-collision-detection#d-collision-detection
